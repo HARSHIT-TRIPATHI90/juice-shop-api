@@ -1,0 +1,378 @@
+[
+  {
+    "id": 1,
+    "email": "admin@juice-sh.op",
+    "password": "admin123",
+    "role": "admin",
+    "wallet_balance": 0,
+    "security_question_answer": "@xI98PxDO+06!",
+    "addresses": [
+      {
+        "fullName": "Administrator",
+        "mobileNum": 1234567890,
+        "zipCode": "4711",
+        "streetAddress": "0815 Test Street",
+        "city": "Test",
+        "state": "Test",
+        "country": "Test"
+      }
+    ],
+    "cards": [
+      {
+        "fullName": "Administrator",
+        "cardNum": 4716190207394368,
+        "expMonth": 2,
+        "expYear": 2081
+      },
+      {
+        "fullName": "Administrator",
+        "cardNum": 4024007105648108,
+        "expMonth": 4,
+        "expYear": 2086
+      }
+    ],
+    "feedback": {
+      "comment": "I love this shop! Best products in town! Highly recommended!",
+      "rating": 5
+    }
+  },
+  {
+    "id": 2,
+    "email": "jim@juice-sh.op",
+    "password": "ncc-1701",
+    "role": "customer",
+    "wallet_balance": 100,
+    "security_question_answer": "Samuel",
+    "addresses": [
+      {
+        "fullName": "Jim",
+        "mobileNum": 523423432,
+        "zipCode": "1701",
+        "streetAddress": "Room 3F 121",
+        "city": "Deck 5",
+        "state": "USS Enterprise",
+        "country": "Space"
+      },
+      {
+        "fullName": "Sam",
+        "mobileNum": 1000000783,
+        "zipCode": "GSK783",
+        "streetAddress": "Deneva Colony",
+        "city": "Deneva",
+        "state": "Beta Darius System",
+        "country": "United Federation of Planets"
+      }
+    ],
+    "cards": [
+      {
+        "fullName": "Jim",
+        "cardNum": 5107891722278705,
+        "expMonth": 11,
+        "expYear": 2099
+      }
+    ],
+    "feedback": {
+      "comment": "Great shop! Awesome service!",
+      "rating": 4
+    }
+  },
+  {
+    "id": 3,
+    "email": "bender@juice-sh.op",
+    "password": "OhG0dPlease1nsertLiquor!",
+    "role": "customer",
+    "wallet_balance": 0,
+    "security_question_answer": "Stop'n'Drop",
+    "addresses": [
+      {
+        "fullName": "Bender",
+        "mobileNum": 797675345,
+        "zipCode": "10001",
+        "streetAddress": "Robot Arms Apts 42",
+        "city": "New New York",
+        "state": "New New York",
+        "country": "Planet Earth"
+      }
+    ],
+    "cards": [
+      {
+        "fullName": "Bender",
+        "cardNum": 4716943969046208,
+        "expMonth": 2,
+        "expYear": 2081
+      }
+    ],
+    "feedback": {
+      "comment": "Nothing useful available here!",
+      "rating": 1
+    }
+  },
+  {
+    "id": 4,
+    "email": "bjoern.kimminich@gmail.com",
+    "password": "bW9jLmxpYW1nQGhjaW5pbW1pay5ucmVvamI=",
+    "role": "admin",
+    "wallet_balance": 0,
+    "security_question_answer": null,
+    "addresses": [
+      {
+        "fullName": "Bjoern Kimminich",
+        "mobileNum": 4917000001,
+        "zipCode": "25436",
+        "streetAddress": "Am Lokalhorst 42",
+        "city": "Uetersen",
+        "state": "Schleswig-Holstein",
+        "country": "Germany"
+      }
+    ],
+    "cards": [
+      {
+        "fullName": "Bjoern Kimminich",
+        "cardNum": 4815205605542754,
+        "expMonth": 12,
+        "expYear": 2092
+      }
+    ],
+    "feedback": null
+  },
+  {
+    "id": 5,
+    "email": "ciso@juice-sh.op",
+    "password": "mDLx?94T~1CfVfZMzw@sJ9f?s3L6lbMqE70FfI8^54jbNikY5fymx7c!YbJb",
+    "role": "deluxe",
+    "wallet_balance": 0,
+    "security_question_answer": "Brd?j8sEMziOvvBf\u00a7Be?jFZ77H?hgm",
+    "addresses": [],
+    "cards": [],
+    "feedback": null
+  },
+  {
+    "id": 6,
+    "email": "support@juice-sh.op",
+    "password": "J6aVjTgOpRs@?5l!Zkq2AYnCE@RF$P",
+    "role": "admin",
+    "wallet_balance": 0,
+    "security_question_answer": "SC OLEA SRL",
+    "addresses": [],
+    "cards": [],
+    "feedback": null
+  },
+  {
+    "id": 7,
+    "email": "morty@juice-sh.op",
+    "password": "focusOnScienceMorty!focusOnScience",
+    "role": "customer",
+    "wallet_balance": 100,
+    "security_question_answer": "5N0wb41L",
+    "addresses": [],
+    "cards": [],
+    "feedback": null
+  },
+  {
+    "id": 8,
+    "email": "mc.safesearch@juice-sh.op",
+    "password": "Mr. N00dles",
+    "role": "customer",
+    "wallet_balance": 13337,
+    "security_question_answer": "I even shared my pizza bagels with you!",
+    "addresses": [],
+    "cards": [],
+    "feedback": null
+  },
+  {
+    "id": 9,
+    "email": "J12934@juice-sh.op",
+    "password": "0Y8rMnww$*9VFYE\u00a759-!Fg1L6t&6lB",
+    "role": "admin",
+    "wallet_balance": 0,
+    "security_question_answer": "azjTLprq2im6p86RbFrA41L",
+    "addresses": [],
+    "cards": [],
+    "feedback": null
+  },
+  {
+    "id": 10,
+    "email": "wurstbrot@juice-sh.op",
+    "password": "EinBelegtesBrotMitSchinkenSCHINKEN!",
+    "role": "admin",
+    "wallet_balance": 0,
+    "security_question_answer": "NZMJLjEinU7TFElDIYW8",
+    "addresses": [],
+    "cards": [],
+    "feedback": null
+  },
+  {
+    "id": 11,
+    "email": "amy@juice-sh.op",
+    "password": "K1f.....................",
+    "role": "customer",
+    "wallet_balance": 48,
+    "security_question_answer": "Dr. Dr. Dr. Dr. Zoidberg",
+    "addresses": [],
+    "cards": [],
+    "feedback": null
+  },
+  {
+    "id": 12,
+    "email": "bjoern@juice-sh.op",
+    "password": "monkey summer birthday are all bad passwords but work just fine in a long passphrase",
+    "role": "admin",
+    "wallet_balance": 0,
+    "security_question_answer": "West-2082",
+    "addresses": [],
+    "cards": [],
+    "feedback": null
+  },
+  {
+    "id": 13,
+    "email": "bjoern@owasp.org",
+    "password": "kitten lesser pooch karate buffoon indoors",
+    "role": "deluxe",
+    "wallet_balance": 0,
+    "security_question_answer": "Zaya",
+    "addresses": [],
+    "cards": [],
+    "feedback": null
+  },
+  {
+    "id": 14,
+    "email": "chris.pike@juice-sh.op",
+    "password": "uss enterprise",
+    "role": "customer",
+    "wallet_balance": 0,
+    "security_question_answer": "greenwood",
+    "addresses": [],
+    "cards": [],
+    "feedback": null
+  },
+  {
+    "id": 15,
+    "email": "accountant@juice-sh.op",
+    "password": "i am an awesome accountant",
+    "role": "accounting",
+    "wallet_balance": 0,
+    "security_question_answer": "sdAffsdfrefrbgreq3423",
+    "addresses": [],
+    "cards": [],
+    "feedback": null
+  },
+  {
+    "id": 16,
+    "email": "uvogin@juice-sh.op",
+    "password": "muda-muda > ora-ora",
+    "role": "customer",
+    "wallet_balance": 100,
+    "security_question_answer": "Silence of the Lambs",
+    "addresses": [],
+    "cards": [],
+    "feedback": null
+  },
+  {
+    "id": 17,
+    "email": "demo@juice-sh.op",
+    "password": "demo",
+    "role": "customer",
+    "wallet_balance": 200,
+    "security_question_answer": "ACME Inc.",
+    "addresses": [
+      {
+        "fullName": "Tim Tester",
+        "mobileNum": 4917000000,
+        "zipCode": "12345",
+        "streetAddress": "Dummystreet 42",
+        "city": "Mocktown",
+        "state": "Testilvania",
+        "country": "United Fakedom"
+      }
+    ],
+    "cards": [
+      {
+        "fullName": "Tim Tester",
+        "cardNum": 1234567812345678,
+        "expMonth": 12,
+        "expYear": 2099
+      }
+    ],
+    "feedback": null
+  },
+  {
+    "id": 18,
+    "email": "john@juice-sh.op",
+    "password": "y&x5Z#f6W532Z4445#Ae2HkwZVyDb7&oCUaDzFU",
+    "role": "customer",
+    "wallet_balance": 0,
+    "security_question_answer": null,
+    "addresses": [],
+    "cards": [],
+    "feedback": null
+  },
+  {
+    "id": 19,
+    "email": "emma@juice-sh.op",
+    "password": "y&x5Z#f6W532ZUf$q3DsdgfgfgxxUsvoCUaDzFU",
+    "role": "customer",
+    "wallet_balance": 0,
+    "security_question_answer": null,
+    "addresses": [],
+    "cards": [],
+    "feedback": null
+  },
+  {
+    "id": 20,
+    "email": "stan@juice-sh.op",
+    "password": "ship coffin krypt cross estate supply insurance asbestos souvenir",
+    "role": "deluxe",
+    "wallet_balance": 0,
+    "security_question_answer": "Used Ship Emporium",
+    "addresses": [],
+    "cards": [],
+    "feedback": null
+  },
+  {
+    "id": 21,
+    "email": "ethereum@juice-sh.op",
+    "password": "private",
+    "role": "deluxe",
+    "wallet_balance": 0,
+    "security_question_answer": "Used Emporium",
+    "addresses": [],
+    "cards": [],
+    "feedback": {
+      "comment": "Please send me the juicy chatbot NFT in my wallet at /juicy-nft : \"purpose betray marriage blame crunch monitor spin slide donate sport lift clutch\"",
+      "rating": 1
+    }
+  },
+  {
+    "id": 22,
+    "email": "testing@juice-sh.op",
+    "password": "IamUsedForTesting",
+    "role": "admin",
+    "wallet_balance": 0,
+    "security_question_answer": null,
+    "addresses": [],
+    "cards": [],
+    "feedback": null
+  },
+  {
+    "id": 23,
+    "email": "cloud-admin@juice-sh.op",
+    "password": "DVKH3gn7G$2Rk!f5Tz@9Lm&Qp4Wx#Yj8Bc0Ns6Ue1Io7Ah2Sd4Fg6Hj8Kl0Zx3Cv5Bn7Mq9Wr1Et3Yu5Ip",
+    "role": "admin",
+    "wallet_balance": 0,
+    "security_question_answer": "xK9#mP2$vL5nQ8wR3jF6hT0yB7cA4dG1eU",
+    "addresses": [],
+    "cards": [],
+    "feedback": null
+  },
+  {
+    "id": 24,
+    "email": "basil@juice-sh.op",
+    "password": "my little nest of vipers",
+    "role": "customer",
+    "wallet_balance": 2,
+    "security_question_answer": "English Riviera",
+    "addresses": [],
+    "cards": [],
+    "feedback": null
+  }
+]

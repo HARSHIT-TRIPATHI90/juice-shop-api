@@ -1,0 +1,20 @@
+services:
+  vuln-api:
+    build: .
+    container_name: juice-lab-api
+    ports:
+      - "127.0.0.1:8000:8000"   # localhost-only by default — see README before exposing this
+    environment:
+      - JUICE_LAB_SECRET=change-me-in-production
+      - JUICE_LAB_DB=sqlite:////data/juicelab.db
+    volumes:
+      - juicelab_data:/data
+    networks:
+      - vuln-net
+
+networks:
+  vuln-net:
+    driver: bridge
+
+volumes:
+  juicelab_data:

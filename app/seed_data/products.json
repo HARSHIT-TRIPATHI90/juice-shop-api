@@ -1,0 +1,450 @@
+[
+  {
+    "id": 1,
+    "name": "Apple Juice (1000ml)",
+    "description": "The all-time classic.",
+    "price": 1.99,
+    "image": "apple_juice.jpg",
+    "deleted": false
+  },
+  {
+    "id": 2,
+    "name": "Orange Juice (1000ml)",
+    "description": "Made from oranges hand-picked by Uncle Dittmeyer.",
+    "price": 2.99,
+    "image": "orange_juice.jpg",
+    "deleted": false
+  },
+  {
+    "id": 3,
+    "name": "Eggfruit Juice (500ml)",
+    "description": "Now with even more exotic flavour.",
+    "price": 8.99,
+    "image": "eggfruit_juice.jpg",
+    "deleted": false
+  },
+  {
+    "id": 4,
+    "name": "Raspberry Juice (1000ml)",
+    "description": "Made from blended Raspberry Pi, water and sugar.",
+    "price": 4.99,
+    "image": "raspberry_juice.jpg",
+    "deleted": false
+  },
+  {
+    "id": 5,
+    "name": "Lemon Juice (500ml)",
+    "description": "Sour but full of vitamins.",
+    "price": 2.99,
+    "image": "lemon_juice.jpg",
+    "deleted": false
+  },
+  {
+    "id": 6,
+    "name": "Banana Juice (1000ml)",
+    "description": "Monkeys love it the most.",
+    "price": 1.99,
+    "image": "banana_juice.jpg",
+    "deleted": false
+  },
+  {
+    "id": 7,
+    "name": "OWASP Juice Shop T-Shirt",
+    "description": "Real fans wear it 24/7!",
+    "price": 22.49,
+    "image": "fan_shirt.jpg",
+    "deleted": false
+  },
+  {
+    "id": 8,
+    "name": "OWASP Juice Shop CTF Girlie-Shirt",
+    "description": "For serious Capture-the-Flag heroines only!",
+    "price": 22.49,
+    "image": "fan_girlie.jpg",
+    "deleted": false
+  },
+  {
+    "id": 9,
+    "name": "OWASP SSL Advanced Forensic Tool (O-Saft)",
+    "description": "O-Saft is an easy to use tool to show information about SSL certificate and tests the SSL connection according given list of ciphers and various SSL configurations.",
+    "price": 0.01,
+    "image": "orange_juice.jpg",
+    "deleted": false
+  },
+  {
+    "id": 10,
+    "name": "Christmas Super-Surprise-Box (2014 Edition)",
+    "description": "Contains a random selection of 10 bottles (each 500ml) of our tastiest juices and an extra fan shirt for an unbeatable price!",
+    "price": 29.99,
+    "image": "undefined.jpg",
+    "deleted": false
+  },
+  {
+    "id": 11,
+    "name": "Rippertuer Special Juice",
+    "description": "Contains a magical collection of the rarest fruits gathered from all around the world, like Cherymoya Annona cherimola, Jabuticaba Myrciaria cauliflora, Bael Aegle marmelos... and others, at an unbelievable price! This item has been made unavailable because of lack of safety standards.",
+    "price": 16.99,
+    "image": "undefined.jpg",
+    "deleted": false
+  },
+  {
+    "id": 12,
+    "name": "OWASP Juice Shop Sticker (2015/2016 design)",
+    "description": "Die-cut sticker with the official 2015/2016 logo. By now this is a rare collectors item. Out of stock!",
+    "price": 999.99,
+    "image": "sticker.png",
+    "deleted": true
+  },
+  {
+    "id": 13,
+    "name": "OWASP Juice Shop Iron-Ons (16pcs)",
+    "description": "Upgrade your clothes with washer safe iron-ons of the OWASP Juice Shop or CTF Extension logo!",
+    "price": 14.99,
+    "image": "iron-on.jpg",
+    "deleted": false
+  },
+  {
+    "id": 14,
+    "name": "OWASP Juice Shop Magnets (16pcs)",
+    "description": "Your fridge will be even cooler with these OWASP Juice Shop or CTF Extension logo magnets!",
+    "price": 15.99,
+    "image": "magnets.jpg",
+    "deleted": false
+  },
+  {
+    "id": 15,
+    "name": "OWASP Juice Shop Sticker Page",
+    "description": "Massive decoration opportunities with these OWASP Juice Shop or CTF Extension sticker pages! Each page has 16 stickers on it.",
+    "price": 9.99,
+    "image": "sticker_page.jpg",
+    "deleted": false
+  },
+  {
+    "id": 16,
+    "name": "OWASP Juice Shop Sticker Single",
+    "description": "Super high-quality vinyl sticker single with the OWASP Juice Shop or CTF Extension logo! The ultimate laptop decal!",
+    "price": 4.99,
+    "image": "sticker_single.jpg",
+    "deleted": false
+  },
+  {
+    "id": 17,
+    "name": "OWASP Juice Shop Temporary Tattoos (16pcs)",
+    "description": "Get one of these temporary tattoos to proudly wear the OWASP Juice Shop or CTF Extension logo on your skin! If you tweet a photo of yourself with the tattoo, you get a couple of our stickers for free! Please mention @owasp_juiceshop in your tweet!",
+    "price": 14.99,
+    "image": "tattoo.jpg",
+    "deleted": false
+  },
+  {
+    "id": 18,
+    "name": "OWASP Juice Shop Mug",
+    "description": "Black mug with regular logo on one side and CTF logo on the other! Your colleagues will envy you!",
+    "price": 21.99,
+    "image": "fan_mug.jpg",
+    "deleted": false
+  },
+  {
+    "id": 19,
+    "name": "OWASP Juice Shop Hoodie",
+    "description": "Mr. Robot-style apparel. But in black. And with logo.",
+    "price": 49.99,
+    "image": "fan_hoodie.jpg",
+    "deleted": false
+  },
+  {
+    "id": 20,
+    "name": "OWASP Juice Shop-CTF Velcro Patch",
+    "description": "4x3.5\" embroidered patch with velcro backside. The ultimate decal for every tactical bag or backpack!",
+    "price": 2.92,
+    "image": "velcro-patch.jpg",
+    "deleted": false
+  },
+  {
+    "id": 21,
+    "name": "Woodruff Syrup \"Forest Master X-Treme\"",
+    "description": "Harvested and manufactured in the Black Forest, Germany. Can cause hyperactive behavior in children. Can cause permanent green tongue when consumed undiluted.",
+    "price": 6.99,
+    "image": "woodruff_syrup.jpg",
+    "deleted": false
+  },
+  {
+    "id": 22,
+    "name": "Green Smoothie",
+    "description": "Looks poisonous but is actually very good for your health! Made from green cabbage, spinach, kiwi and grass.",
+    "price": 1.99,
+    "image": "green_smoothie.jpg",
+    "deleted": false
+  },
+  {
+    "id": 23,
+    "name": "Quince Juice (1000ml)",
+    "description": "Juice of the Cydonia oblonga fruit. Not exactly sweet but rich in Vitamin C.",
+    "price": 4.99,
+    "image": "quince.jpg",
+    "deleted": false
+  },
+  {
+    "id": 24,
+    "name": "Apple Pomace",
+    "description": "Finest pressings of apples. Allergy disclaimer: Might contain traces of worms. Can be sent back to us for recycling.",
+    "price": 0.89,
+    "image": "apple_pressings.jpg",
+    "deleted": false
+  },
+  {
+    "id": 25,
+    "name": "Fruit Press",
+    "description": "Fruits go in. Juice comes out. Pomace you can send back to us for recycling purposes.",
+    "price": 89.99,
+    "image": "fruit_press.jpg",
+    "deleted": false
+  },
+  {
+    "id": 26,
+    "name": "OWASP Juice Shop Logo (3D-printed)",
+    "description": "This rare item was designed and handcrafted in Sweden. This is why it is so incredibly expensive despite its complete lack of purpose.",
+    "price": 99.99,
+    "image": "3d_keychain.jpg",
+    "deleted": false
+  },
+  {
+    "id": 27,
+    "name": "Juice Shop Artwork",
+    "description": "Unique masterpiece painted with different kinds of juice on 90g/m\u00b2 lined paper.",
+    "price": 278.74,
+    "image": "artwork.jpg",
+    "deleted": true
+  },
+  {
+    "id": 28,
+    "name": "Global OWASP WASPY Award 2017 Nomination",
+    "description": "Your chance to nominate up to three quiet pillars of the OWASP community ends 2017-06-30! Nominate now!",
+    "price": 0.03,
+    "image": "waspy.png",
+    "deleted": true
+  },
+  {
+    "id": 29,
+    "name": "Strawberry Juice (500ml)",
+    "description": "Sweet & tasty!",
+    "price": 3.99,
+    "image": "strawberry_juice.jpeg",
+    "deleted": false
+  },
+  {
+    "id": 30,
+    "name": "Carrot Juice (1000ml)",
+    "description": "As the old German saying goes: \"Carrots are good for the eyes. Or has anyone ever seen a rabbit with glasses?\"",
+    "price": 2.99,
+    "image": "carrot_juice.jpeg",
+    "deleted": false
+  },
+  {
+    "id": 31,
+    "name": "OWASP Juice Shop Sweden Tour 2017 Sticker Sheet (Special Edition)",
+    "description": "10 sheets of Sweden-themed stickers with 15 stickers on each.",
+    "price": 19.1,
+    "image": "stickersheet_se.png",
+    "deleted": true
+  },
+  {
+    "id": 32,
+    "name": "Pwning OWASP Juice Shop",
+    "description": "The official Companion Guide by Bj\u00f6rn Kimminich available for free on LeanPub and also readable online!",
+    "price": 5.99,
+    "image": "cover_small.jpg",
+    "deleted": false
+  },
+  {
+    "id": 33,
+    "name": "Melon Bike (Comeback-Product 2018 Edition)",
+    "description": "The wheels of this bicycle are made from real water melons. You might not want to ride it up/down the curb too hard.",
+    "price": 2999,
+    "image": "melon_bike.jpeg",
+    "deleted": false
+  },
+  {
+    "id": 34,
+    "name": "OWASP Juice Shop Coaster (10pcs)",
+    "description": "Our 95mm circle coasters are printed in full color and made from thick, premium coaster board.",
+    "price": 19.99,
+    "image": "coaster.jpg",
+    "deleted": false
+  },
+  {
+    "id": 35,
+    "name": "OWASP Snakes and Ladders - Web Applications",
+    "description": "This amazing web application security awareness board game is available for Tabletop Simulator on Steam Workshop now!",
+    "price": 0.01,
+    "image": "snakes_ladders.jpg",
+    "deleted": false
+  },
+  {
+    "id": 36,
+    "name": "OWASP Snakes and Ladders - Mobile Apps",
+    "description": "This amazing mobile app security awareness board game is available for Tabletop Simulator on Steam Workshop now!",
+    "price": 0.01,
+    "image": "snakes_ladders_m.jpg",
+    "deleted": false
+  },
+  {
+    "id": 37,
+    "name": "OWASP Juice Shop Holographic Sticker",
+    "description": "Die-cut holographic sticker. Stand out from those 08/15-sticker-covered laptops with this shiny beacon of 80's coolness!",
+    "price": 2.0,
+    "image": "holo_sticker.png",
+    "deleted": false
+  },
+  {
+    "id": 38,
+    "name": "OWASP Juice Shop \"King of the Hill\" Facemask",
+    "description": "Facemask with compartment for filter from 50% cotton and 50% polyester.",
+    "price": 13.49,
+    "image": "fan_facemask.jpg",
+    "deleted": false
+  },
+  {
+    "id": 39,
+    "name": "Juice Shop Adversary Trading Card (Common)",
+    "description": "Common rarity \"Juice Shop\" card for the Adversary Trading Cards CCG.",
+    "price": 2.99,
+    "image": "ccg_common.png",
+    "deleted": true
+  },
+  {
+    "id": 40,
+    "name": "Juice Shop Adversary Trading Card (Super Rare)",
+    "description": "Super rare \"Juice Shop\" card with holographic foil-coating for the Adversary Trading Cards CCG.",
+    "price": 99.99,
+    "image": "ccg_foil.png",
+    "deleted": true
+  },
+  {
+    "id": 41,
+    "name": "Juice Shop \"Permafrost\" 2020 Edition",
+    "description": "Exact version of OWASP Juice Shop that was archived on 02/02/2020 by the GitHub Archive Program and ultimately went into the Arctic Code Vault on July 8. 2020 where it will be safely stored for at least 1000 years.",
+    "price": 9999.99,
+    "image": "permafrost.jpg",
+    "deleted": false
+  },
+  {
+    "id": 42,
+    "name": "Best Juice Shop Salesman Artwork",
+    "description": "Unique digital painting depicting Stan, our most qualified and almost profitable salesman. He made a succesful carreer in selling used ships, coffins, krypts, crosses, real estate, life insurance, restaurant supplies, voodoo enhanced asbestos and courtroom souvenirs before finally adding his expertise to the Juice Shop marketing team.",
+    "price": 5000,
+    "image": "artwork2.jpg",
+    "deleted": false
+  },
+  {
+    "id": 43,
+    "name": "OWASP Juice Shop Card (non-foil)",
+    "description": "Mythic rare (obviously...) card \"OWASP Juice Shop\" with three distinctly useful abilities. Alpha printing, mint condition. A true collectors piece to own!",
+    "price": 1000,
+    "image": "card_alpha.jpg",
+    "deleted": false
+  },
+  {
+    "id": 44,
+    "name": "20th Anniversary Celebration Ticket",
+    "description": "Get your free \ud83c\udfab for OWASP 20th Anniversary Celebration online conference! Hear from world renowned keynotes and special speakers, network with your peers and interact with our event sponsors. With an anticipated 10k+ attendees from around the world, you will not want to miss this live on-line event!",
+    "price": 1e-20,
+    "image": "20th.jpeg",
+    "deleted": true
+  },
+  {
+    "id": 45,
+    "name": "OWASP Juice Shop LEGO\u2122 Tower",
+    "description": "Want to host a Juice Shop CTF in style? Build your own LEGO\u2122 tower which holds four Raspberry Pi 4 models with PoE HAT modules running a MultiJuicer Kubernetes cluster! Wire to a switch and connect to your network to have an out-of-the-box ready CTF up in no time!",
+    "price": 799,
+    "image": "lego_case.jpg",
+    "deleted": false
+  },
+  {
+    "id": 46,
+    "name": "DSOMM & Juice Shop User Day Ticket",
+    "description": "You are going to the OWASP Global AppSec San Francisco 2024? Get a ticket* for this amazing side event as well! Check the juice-packed agenda here for all the details!*=scroll down to Elevate: DSOMM and Juice Shop User Day (Sept. 25) after clicking Get Tickets on Eventbrite. Ticket price set to only covers fees for room, AV, and catering throughout the day.",
+    "price": 55.2,
+    "image": "user_day_ticket.png",
+    "deleted": true
+  },
+  {
+    "id": 47,
+    "name": "Pineapple Juice (1000ml)",
+    "description": "Tropical refreshment from the finest sun-ripened pineapples.",
+    "price": 2.99,
+    "image": "pineapple_juice.png",
+    "deleted": false
+  },
+  {
+    "id": 48,
+    "name": "Melon Juice (1000ml)",
+    "description": "Refreshing and sweet juice made from ripe melons.",
+    "price": 2.49,
+    "image": "melon_juice.png",
+    "deleted": false
+  },
+  {
+    "id": 49,
+    "name": "Grape Juice (1000ml)",
+    "description": "Deep purple and full of antioxidants from selected grapes.",
+    "price": 2.99,
+    "image": "grape_juice.png",
+    "deleted": false
+  },
+  {
+    "id": 50,
+    "name": "Dragonfruit Juice (500ml)",
+    "description": "Exotic and vibrant juice made from dragonfruit.",
+    "price": 3.99,
+    "image": "dragonfruit_juice.png",
+    "deleted": false
+  },
+  {
+    "id": 51,
+    "name": "Berry Juice (1000ml)",
+    "description": "A delicious blend of fresh forest berries.",
+    "price": 3.49,
+    "image": "berry_juice.png",
+    "deleted": false
+  },
+  {
+    "id": 52,
+    "name": "Basil Smoothie",
+    "description": "A unique blend of fresh basil and ginger for a healthy kick.",
+    "price": 2.99,
+    "image": "basil_smoothie.png",
+    "deleted": false
+  },
+  {
+    "id": 53,
+    "name": "Brag\u0103 (500ml)",
+    "description": "Traditional Balkan drink made from fermented millet. Lightly sweet-sour, refreshing, and naturally energizing.",
+    "price": 2.49,
+    "image": "braga.jpg",
+    "deleted": false
+  },
+  {
+    "id": 54,
+    "name": "Elderflower Cordial (500ml)",
+    "description": "Floral and fragrant soft drink made from elderflowers. Traditionally enjoyed chilled.",
+    "price": 3.29,
+    "image": "elderflower_cordial.jpg",
+    "deleted": false
+  },
+  {
+    "id": 55,
+    "name": "Sea Buckthorn Juice (500ml)",
+    "description": "Tangy and slightly sour juice, extremely rich in Vitamin C and antioxidants.",
+    "price": 3.99,
+    "image": "sea_buckthorn_juice.jpg",
+    "deleted": false
+  },
+  {
+    "id": 56,
+    "name": "Pomegranate Drink (500ml)",
+    "description": "A sweet and tart refreshment inspired by classic grenadine flavors.",
+    "price": 4.49,
+    "image": "pomegranate_drink.jpg",
+    "deleted": false
+  }
+]
