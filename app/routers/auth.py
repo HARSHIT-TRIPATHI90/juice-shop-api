@@ -1,7 +1,7 @@
 from fastapi import APIRouter, Depends, HTTPException, status
 from sqlalchemy.orm import Session
 from sqlalchemy.exc import IntegrityError
-
+from fastapi.security import OAuth2PasswordRequestForm
 from ..core.database import get_db
 from ..core.security import hash_password, verify_password, create_access_token, get_current_user
 from ..models.db_models import User, Basket
@@ -40,6 +40,13 @@ def login(payload: LoginRequest, db: Session = Depends(get_db)):
     token = create_access_token({"sub": str(user.id), "role": user.role})
     return TokenResponse(access_token=token)
 
+@router.post("/token")
+def token(form: OAuth2PasswordRequestForm = Depends(), db: Session = Depends(get_db)):
+    user = db.query(User).filter(User.email == form.username).first()
+    if not user or not verify_password(form.password, user.hashed_password):
+        raise HTTPException(status_code=401, detail="Invalid email or password")
+    access = create_access_token({"sub": str(user.id), "role": user.role})
+    return {"access_token": access, "token_type": "bearer"}
 
 @router.get("/me", response_model=UserOut)
 def me(current_user: User = Depends(get_current_user)):

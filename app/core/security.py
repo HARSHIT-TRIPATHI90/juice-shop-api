@@ -11,8 +11,12 @@ from .config import SECRET_KEY, ALGORITHM, ACCESS_TOKEN_EXPIRE_MINUTES
 from .database import get_db
 from ..models.db_models import User
 
+import logging
+logging.getLogger("passlib").setLevel(logging.ERROR)
+
 pwd_context = CryptContext(schemes=["bcrypt"], deprecated="auto")
-oauth2_scheme = OAuth2PasswordBearer(tokenUrl="/api/auth/login")
+#oauth2_scheme = OAuth2PasswordBearer(tokenUrl="/api/auth/login")
+oauth2_scheme = OAuth2PasswordBearer(tokenUrl="/api/auth/token")
 # auto_error=False lets endpoints accept either an anonymous caller or a
 # logged-in one (e.g. public feedback) without raising 401 by default.
 oauth2_scheme_optional = OAuth2PasswordBearer(tokenUrl="/api/auth/login", auto_error=False)
